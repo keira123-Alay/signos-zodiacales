@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de signos zodiacales</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Mi página de signos zodiacales</h1>
+    <ol>
+        <li>Aries</li><img src="aries.jpg">
+       <li>Tauro</li><img src="2.jpg">
+       <li>Géminis</li><img src="4.jpg">
+       <li>Cáncer</li><img src="3.jpg">
+       <li>Leo</li><img src="5.jpg">
+       <li>Virgo</li><img src="">
+       <li>Libra</li><img src="">
+       <li>Escorpio</li><img src="">
+       <li>Sagitario</li><img src="">
+       <li>Capricornio</li><img src="">
+       <li>Acuario</li><img src="">
+       <li>Piscis</li><img src="">
+    </ol>
+</body>
+</html>
